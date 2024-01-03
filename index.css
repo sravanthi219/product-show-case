@@ -1,0 +1,27 @@
+.product {
+    border: 1px solid purple;
+    padding: 10px;
+    flex-direction: rows;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+#cart {
+    border: 1px solid green;
+    padding: 10px;
+    flex-direction: row;
+    margin: 10px;
+    text-align: right;
+}
+
+button {
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+body{
+background-color: lightblue;
+}
